@@ -1,0 +1,5 @@
+public/node_modules
+public/.env
+server/node_modules
+server/.env
+public/build
